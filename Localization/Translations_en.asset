@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Translations_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 6aea4983aa9aa8146ad2c7c1358c6cb0, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 54592004096
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320104030208
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 482704613376
+    m_Localized: About Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 567395999744
+    m_Localized: Start with
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16645995383435264
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16646218138726400
+    m_Localized: Full Screen Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16646388154839040
+    m_Localized: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16646513077989376
+    m_Localized: Resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16646656460271616
+    m_Localized: Low
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16973994834210816
+    m_Localized: Choose The Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17024933660975104
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17375905226678272
+    m_Localized: "Idea:\r\n\t\tMutalup Kerim\r\n Design:\r\n\t\tMutalup Kerim\r\n
+      Coding:\r\n\t\tMutalup Kerim\r\n 3D:\r\n\t\tMutalup Kerim"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17376280289730560
+    m_Localized: 'Horizontal movement
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17376367770329088
+    m_Localized: Vertical movement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17376622985338880
+    m_Localized: Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17376804783251456
+    m_Localized: Free view
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17376941114908672
+    m_Localized: Creators
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18451579802738688
+    m_Localized: Loading...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19062163796865024
+    m_Localized: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19062216510877696
+    m_Localized: SFX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19096880704118784
+    m_Localized: Leaving...
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
